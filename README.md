@@ -9,3 +9,4 @@ This website WILL create EVERYTHING from scratch, no npm, no 3rd party plugins, 
 
 The server side will be a little bit more liberal because of the nature of JS webservers. I may end up even writing in another language like Rust, but I would like to sharpen my js server skills before I forge my skills in Rust (javascript also pays more so thats something to take into account).
 
+<b>Each branch will have its own readme detailing what that branch is about!</b>
